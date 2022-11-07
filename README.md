@@ -45,7 +45,10 @@ Sonicwall Firewall Rules : You don't want unknown traffic in a network that is u
 <br />
 <img src="https://imgur.com/t4NmNjW.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
-
+<br />
+Configuration on the Red Hat system that is compliant with PCI DSS Requirement 8.1.6 Limit repeated access attempts by locking out the user ID after not more than six attempts.
+<br />
+<img src="https://imgur.com/Eqwpq1Y.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
 
 
