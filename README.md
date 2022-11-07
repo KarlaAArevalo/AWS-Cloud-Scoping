@@ -1,4 +1,10 @@
-<h2></h2>
+
+
+
+
+<h2>The following projects are a list of PCI DSS violation findings. This list includes the PCI gap/finding, requirements that are currently being violated, and an action that will remedy the gap. There also are some recommendations included in this report for issues that could become an issue if not managed properly.
+
+</h2>
 <br />
 PCI DSS Requirement 1.X.X: Install perimeter firewalls between all wireless networks and the cardholder data environment, and configure these firewalls to deny or, if traffic is necessary for business purposes, permit only authorized traffic between the wireless environment and the cardholder data environment.
 <br />
