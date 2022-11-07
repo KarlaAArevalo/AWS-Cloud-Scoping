@@ -12,6 +12,11 @@ Vulnerability has not been addressed in 90 days, was discovered 01/09/2018 and w
 <img src="https://imgur.com/oiKr4sT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <br />
+Vulnerabilities configuration management problem. They don't have a configuration standard. The configuration standard is going to have all the settings that the F5 team should know to configure that system, including the patches that need to be installed. 
+<br />
+<img src="https://imgur.com/wkZZqYR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+<br />
 Window Server Configuration in compliance with security configuration standard documentation. As an internal PCI Assessor preparing for an upcoming assessment. Meeting with the window system admin to ensure servers have been configured to company security standards. Admin walks through several configurations for me to compare to the approved company security standards and identify instances of non compliance.
 <br />
 <img src="https://imgur.com/9MbCI4W.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
