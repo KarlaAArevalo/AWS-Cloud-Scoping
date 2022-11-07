@@ -1,4 +1,20 @@
 <h2></h2>
+
+<br />
+Window Server Configuration in compliance with security configuration standard documentation. As an internal PCI Assessor preparing for an upcoming assessment. Meeting with the window system admin to ensure servers have been configured to company security standards. Admin walks through several configurations for me to compare to the approved company security standards and identify instances of non compliance.
+<br />
+<img src="https://imgur.com/9MbCI4W.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
+
+<br />
+F5 Load Balancer Configuration Review : load balance not compliant with requirement 4.1. Use strong cryptography and security protocols to safeguard sensitive cardholder data during transmission over open, public networks, including the following: For the protocol in use to only support secure versions and configurations (that insecure versions or configurations are not supported).
+<br />
+<img src="https://imgur.com/G4ST3iu.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+
 <br />
 Network Firewall Configuration in Compliance with Security Policy Documentation: Cisco ASA Firewall. Identifying any findings of non-compliance.
 The firewall configuration is compared to approved ports, protocols and services in accordance with policy from the ITSecurity Department.The firewall has port 165 open and it has not been authorized by IT Security.
