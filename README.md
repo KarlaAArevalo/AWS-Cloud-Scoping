@@ -6,6 +6,12 @@ Network Diagram:
 <img src="https://imgur.com/uckLYrt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <br />
+Results of the internal Qualys scan which makes this a gap.
+Vulnerability has not been addressed in 90 days, was discovered 01/09/2018 and was last detected 08/29/2018.
+<br />
+<img src="https://imgur.com/oiKr4sT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+<br />
 Window Server Configuration in compliance with security configuration standard documentation. As an internal PCI Assessor preparing for an upcoming assessment. Meeting with the window system admin to ensure servers have been configured to company security standards. Admin walks through several configurations for me to compare to the approved company security standards and identify instances of non compliance.
 <br />
 <img src="https://imgur.com/9MbCI4W.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
@@ -46,9 +52,18 @@ Sonicwall Firewall Rules : You don't want unknown traffic in a network that is u
 <img src="https://imgur.com/t4NmNjW.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
 <br />
-Configuration on the Red Hat system that is compliant with PCI DSS Requirement 8.1.6 Limit repeated access attempts by locking out the user ID after not more than six attempts.
+Configuration on the Red Hat system that is compliant with PCI DSS Requirement 8.X.X Limit repeated access attempts by locking out the user ID after not more than six attempts.
 <br />
 <img src="https://imgur.com/Eqwpq1Y.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
+<br />
+Configuration on the Windows system that is Not compliant with PCI DSS Requirement 8.X.X
+<br />
+<img src="https://imgur.com/yOeFF7p.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
+
+<br />
+Scoping with SolarWinds Firewall Browser: How we find the required scoping information for scoping workbooks.Identifying gaps.
+<br />
+<img src="https://imgur.com/undefined.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
 
