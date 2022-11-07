@@ -1,4 +1,9 @@
 <h2></h2>
+<br />
+PCI DSS Requirement 1.X.X: Install perimeter firewalls between all wireless networks and the cardholder data environment, and configure these firewalls to deny or, if traffic is necessary for business purposes, permit only authorized traffic between the wireless environment and the cardholder data environment.
+Network Diagram:
+<br />
+<img src="https://imgur.com/uckLYrt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <br />
 Window Server Configuration in compliance with security configuration standard documentation. As an internal PCI Assessor preparing for an upcoming assessment. Meeting with the window system admin to ensure servers have been configured to company security standards. Admin walks through several configurations for me to compare to the approved company security standards and identify instances of non compliance.
@@ -6,14 +11,26 @@ Window Server Configuration in compliance with security configuration standard d
 <img src="https://imgur.com/9MbCI4W.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
 <br />
-F5 Load Balancer Configuration Review : load balance not compliant with requirement 4.1. Use strong cryptography and security protocols to safeguard sensitive cardholder data during transmission over open, public networks, including the following: For the protocol in use to only support secure versions and configurations (that insecure versions or configurations are not supported).
+F5 Load Balancer Configuration Review : load balance not compliant with requirement 4.X. Use strong cryptography and security protocols to safeguard sensitive cardholder data during transmission over open, public networks, including the following: For the protocol in use to only support secure versions and configurations (that insecure versions or configurations are not supported).
 <br />
 <img src="https://imgur.com/G4ST3iu.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
+<br />
+Web Server Configuration Review: Web server non-compliant with requirement 4.X. Use strong cryptography and security protocols to safeguard sensitive cardholder data during transmission over open, public networks, including the following: For the protocol in use to only support secure versions and configurations (that insecure versions or configurations are not supported).
+<br />
+<img src="https://imgur.com/aWmdd7t.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
+<br />
+AWS CLOUD: RTA is in scope, yet system hardening needs to be in place so PCI network isn't breached through weak RTA. Configurations should provide IP addresses since they are missing from the diagram.
+<br/>
+<img src="https://imgur.com/OORfQ7j.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/gMrJoIX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
-
-
+<br />
+Configurations that makes this McAfee compliant with PCI DSS Requirement 5.X.X Ensure that anti-virus programs are capable of detecting, removing, and protecting against all known types of malicious software.5.X.X Review vendor documentation and examine anti-virus configurations to verify that anti-virus programs; • Detect all known types of malicious software, • Remove all known types of malicious software, and • Protect against all known types of malicious software. Examples of types of malicious software include viruses, Trojans, worms, spyware, adware, and rootkits.
+<br />
+<img src="https://imgur.com/L5ZHygh.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
 <br />
 Network Firewall Configuration in Compliance with Security Policy Documentation: Cisco ASA Firewall. Identifying any findings of non-compliance.
@@ -28,17 +45,7 @@ Sonicwall Firewall Rules : You don't want unknown traffic in a network that is u
 <br />
 <img src="https://imgur.com/t4NmNjW.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
-<br />
-RTA is in scope, yet system hardening needs to be in place so PCI network isn't breached through weak RTA. Configurations should provide IP addresses since they are missing from the diagram.
-<br/>
-<img src="https://imgur.com/OORfQ7j.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="https://imgur.com/gMrJoIX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
-<br />
-PCI DSS Requirement 1.X.X: Install perimeter firewalls between all wireless networks and the cardholder data environment, and configure these firewalls to deny or, if traffic is necessary for business purposes, permit only authorized traffic between the wireless environment and the cardholder data environment.
-Network Diagram:
-<br />
-<img src="https://imgur.com/uckLYrt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
 
 
