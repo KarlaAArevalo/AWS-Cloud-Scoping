@@ -1,7 +1,6 @@
 <h2></h2>
 <br />
 PCI DSS Requirement 1.X.X: Install perimeter firewalls between all wireless networks and the cardholder data environment, and configure these firewalls to deny or, if traffic is necessary for business purposes, permit only authorized traffic between the wireless environment and the cardholder data environment.
-Network Diagram:
 <br />
 <img src="https://imgur.com/uckLYrt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
