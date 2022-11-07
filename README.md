@@ -2,7 +2,7 @@
 
 
 
-<h2>The following projects are a list of PCI DSS violation findings. This list includes the PCI gap/finding, requirements that are currently being violated, and an action that will remedy the gap. There also are some recommendations included in this report for issues that could become an issue if not managed properly.
+<h2>The following examples are a list of PCI DSS violation findings. This list includes the PCI gap/finding, requirements that are currently being violated, and an action that will remedy the gap. There also are some recommendations included in this examples for issues that could become an issue if not managed properly.
 
 </h2>
 <br />
