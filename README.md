@@ -64,6 +64,6 @@ Configuration on the Windows system that is Not compliant with PCI DSS Requireme
 <br />
 Scoping with SolarWinds Firewall Browser: How we find the required scoping information for scoping workbooks.Identifying gaps.
 <br />
-<img src="https://imgur.com/undefined.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/G4PuNSn.png" height="58%" width="58%" alt="Disk Sanitization Steps"/>
 
 
