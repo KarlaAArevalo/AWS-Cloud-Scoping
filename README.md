@@ -1,6 +1,10 @@
 <h1>PCI-DSS Gap Analysis</h1>
-<h2>The following examples are a list of violation findings. This list includes gap finding's, requirements that are currently being violated, and an action that will remedy the gap. There also are some recommendations included in this examples for issues that could become an issue if not managed properly.
+
+<h2>
 </h2>
+
+<br />The following examples are a list of gap finding's and violation findings, requirements that are currently being violated, and an action that will remedy the gap. There also are some recommendations included in this examples for issues that could become an issue if not managed properly.
+
 <br />
 PCI DSS Requirement 1.2.3: Install perimeter firewalls between all wireless networks and the cardholder data environment, and configure these firewalls to deny or, if traffic is necessary for business purposes, permit only authorized traffic between the wireless environment and the cardholder data environment.
 
