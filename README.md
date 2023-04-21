@@ -7,7 +7,7 @@
 
 -PCI Security Standards (PAT TOOL)
 
-I have provided a link here: [Prioritized Approch Tool](https://docs.google.com/spreadsheets/d/1-_NZPyPdq6OndLky1i29W_ZpTml5xJLE/edit#gid=1771538211)
+I have provided a link to the tool here: [Prioritized Approch Tool](https://docs.google.com/spreadsheets/d/1-_NZPyPdq6OndLky1i29W_ZpTml5xJLE/edit#gid=1771538211)
 <br>
 
 <br />A PCI gap assessment can help you identify any missing or incomplete cybersecurity infrastructure you’ll need to patch before your next required audit for certification, internal or external.
