@@ -1,9 +1,11 @@
 <h1>PCI-DSS Gap Analysis</h1>
 
-<h2>
+<h2>Complying with the Payment Card Industry Data Security Standard (PCI DSS) can be complicated and time-consuming, but you can reduce that burden with a PCI DSS gap analysis. It’s usually the first step towards compliance, as it provides a detailed comparison of what an organisation is currently doing against what it should be doing.
 </h2>
 
-<br />The following examples are a list of gap finding's and violation findings, requirements that are currently being violated, and an action that will remedy the gap. There also are some recommendations included in this examples for issues that could become an issue if not managed properly.
+<br />A PCI gap assessment can help you identify any missing or incomplete cybersecurity infrastructure you’ll need to patch before your next required audit for certification, internal or external.
+
+The following examples are a list of gap finding's and violation findings, requirements that are currently being violated, and an action that will remedy the gap. There also are some recommendations included in this examples for issues that could become an issue if not managed properly.
 
 <br />
 PCI DSS Requirement 1.2.3: Install perimeter firewalls between all wireless networks and the cardholder data environment, and configure these firewalls to deny or, if traffic is necessary for business purposes, permit only authorized traffic between the wireless environment and the cardholder data environment.
